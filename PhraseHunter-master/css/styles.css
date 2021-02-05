@@ -35,7 +35,7 @@ body {
   flex-direction: column;
   display: flex;
   height: 100vh;
-  background-color: lightcoral;
+  background-color: darkcyan;
 }
 
 li, ol, ul {
